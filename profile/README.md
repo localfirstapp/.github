@@ -1,8 +1,14 @@
 # 🚀 Local First App
 
+<div align="center">
+<img src="https://localfirstapp.github.io/images/logo.svg" alt="Flauth Logo" width="200"/>
+</div>
+
 Welcome to `Local First App` – your hub for exploring, building, and advocating for the **local-first software paradigm**.
 
 > https://localfirstapp.github.io/
+
+
 
 ## 🌟 What is Local-First Software?
 
