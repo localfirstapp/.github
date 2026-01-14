@@ -36,7 +36,7 @@ Whether you're a seasoned developer, a curious user, or just getting started, th
 
 * **Explore our repositories:** Dive into our projects showcasing various local-first implementations.
 * **Read our guides:** Learn the fundamentals, patterns, and tools for building local-first.
-* **Join the discussion:** (Placeholder for future community links, e.g., Discord, Forum)
+* **Join the discussion:** [Telegram](https://t.me/localfirstapp), [GitHub Discussions](https://github.com/orgs/localfirstapp/discussions), [微信群](https://github.com/orgs/localfirstapp/discussions/1)
 * **Contribute:** Help us build documentation, code, or examples.
 
 Let's build a more robust, private, and user-centric digital future, one local-first app at a time!
