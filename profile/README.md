@@ -2,6 +2,8 @@
 
 Welcome to `Local First App` – your hub for exploring, building, and advocating for the **local-first software paradigm**.
 
+> https://localfirstapp.github.io/
+
 ## 🌟 What is Local-First Software?
 
 In a world increasingly dependent on constant cloud connectivity, local-first software champions a revolutionary approach: **your data lives primarily on your device.**
