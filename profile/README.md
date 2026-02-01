@@ -1,48 +1,52 @@
-# 🚀 Local First App
 
 <div align="center">
-<img src="https://localfirstapp.github.io/images/logo.svg" alt="Flauth Logo" width="200"/>
+<img src="https://localfirstapp.github.io/_assets/logo.svg" alt="Flauth Logo" width="200"/>
 </div>
 
-Welcome to `Local First App` – your hub for exploring, building, and advocating for the **local-first software paradigm**.
 
-> https://localfirstapp.github.io/
+> **Local-first（本地优先）** 是一种回归用户本位的软件设计理念。它不仅仅关乎技术，更关乎数字世界的自由与尊严。我们相信：
 
+- **数据主权**：数据属于你，而非云端服务商。它应首先保存在你的设备上，你可以随时导出、迁移或自行托管。
+- **离线可用**：网络应当是增强体验的加速器，而非使用的前提。无论身处何地，软件核心功能都应触手可及。
+- **无缝同步**：在多台设备间可靠地同步数据，通过冲突检测与合并技术，确保你的创作在任何设备上都保持一致。
+- **隐私至上**：默认的安全与隐私保护，最大程度减少对中心化服务的依赖。
 
+本站致力于成为 Local-first 软件的精选目录与实践指南，帮助你发现那些真正尊重用户的工具。
 
-## 🌟 What is Local-First Software?
+> 官方网站：https://localfirstapp.github.io
 
-In a world increasingly dependent on constant cloud connectivity, local-first software champions a revolutionary approach: **your data lives primarily on your device.**
+## 收录标准
 
-This philosophy brings back the best aspects of desktop applications – **speed, reliability, and full ownership** – while seamlessly integrating modern collaboration and multi-device syncing.
+我们正在寻找符合以下特质的应用：
 
-**Key Principles of Local-First Apps:**
-* **Instant Responsiveness:** No more waiting for network requests. Operations are immediate.
-* **Offline Functionality:** Work uninterrupted, whether you're on a plane, in a tunnel, or without internet.
-* **Seamless Collaboration:** Empower multiple users to edit concurrently without conflicts.
-* **Data Ownership:** You own and control your data, not a third-party server.
-* **Long-term Preservation:** Your data remains accessible even if a service goes offline.
-* **Enhanced Privacy:** Less reliance on centralized servers means fewer targets for data breaches.
+*   **⚡️ 离线优先**：断网状态下依然可以使用核心功能，优雅降级。
+*   **💾 本地存储**：数据默认存储在本地设备或用户自托管的后端。
+*   **🔓 自由迁移**：支持开放格式，提供完整的数据导出能力，拒绝被锁定。
+*   **🛡️ 透明隐私**：清晰的隐私策略，最小化数据收集，且过程可审计。
 
-## ✨ Our Mission
+**加分项：**
+*   **开源**：代码公开，社区可审查与贡献。
+*   **端到端同步**：支持 E2EE 或其他可验证的安全同步方案。
 
-At `Local First App`, we aim to:
-* **Educate:** Provide clear, accessible resources to understand the benefits and challenges of local-first development.
-* **Innovate:** Showcase and contribute to groundbreaking projects that embody local-first principles.
-* **Connect:** Foster a community of developers, designers, and users passionate about this future.
-* **Empower:** Offer tools and frameworks that simplify the creation of robust local-first applications.
+### 如何贡献
 
-## 💡 Why Local-First Matters Now More Than Ever
+我们需要你的帮助来完善这个目录！
 
-The digital landscape is shifting. Users demand more control over their data, developers seek more resilient architectures, and the need for privacy-preserving solutions is paramount. Local-first is not just a technical choice; it's a statement about user empowerment and the future of sustainable software.
+*   **推荐应用**：请阅读 **[收录指南](./submission_guide.md)**，并按规范提交你发现的优质应用。
+*   **改进文档**：纠正错误、补充分类标签或完善描述。
+*   **分享见解**：欢迎提交翻译、使用案例分析或技术对比文章。
 
-## 🛠️ Get Involved
+## 社群项目
 
-Whether you're a seasoned developer, a curious user, or just getting started, there are many ways to contribute and learn:
+我们不仅是观察者，更是创造者。
 
-* **Explore our repositories:** Dive into our projects showcasing various local-first implementations.
-* **Read our guides:** Learn the fundamentals, patterns, and tools for building local-first.
-* **Join the discussion:** [Telegram](https://t.me/localfirstapp), [GitHub Discussions](https://github.com/orgs/localfirstapp/discussions), [微信群](https://github.com/orgs/localfirstapp/discussions/1)
-* **Contribute:** Help us build documentation, code, or examples.
+除了收录现有应用，Local First 社群正在汇聚志同道合的开发者与设计师，**共同打造我们心目中理想的本地优先软件**。我们将通过实际项目，探索数据主权、离线优先与跨端同步的最佳实践路径，构建真正属于用户的数字工具。
 
-Let's build a more robust, private, and user-centric digital future, one local-first app at a time!
+## 加入讨论
+
+- ✈️ [Telegram](https://t.me/localfirstapp)
+- 💬 [GitHub Discussions](https://github.com/orgs/localfirstapp/discussions)
+- 🟢 [微信群](https://github.com/orgs/localfirstapp/discussions/1)
+
+> **致谢**：感谢所有推动 Local-first 运动的社区与项目。让我们一起努力，夺回属于我们的数字生活。
+
